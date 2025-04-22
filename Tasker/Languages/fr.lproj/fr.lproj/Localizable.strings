@@ -1,0 +1,462 @@
+"English" = "Anglais";
+"Dutch" = "Néerlandais";
+"Spanish" = "Espagnol";
+"French" = "Français";
+
+// Tab Items
+"Home" = "Accueil";
+"Planner" = "Planificateur";
+"Statistics" = "Statistiques";
+"Tools" = "Outils";
+"Profile" = "Profil";
+
+// Auth Errors
+"Authentication configuration not found" = "Configuration d'authentification introuvable";
+"Failed to get authentication token" = "Échec de l'obtention du jeton d'authentification";
+"No signed-in user found" = "Aucun utilisateur connecté trouvé";
+"Sign in cancelled by user" = "Connexion annulée par l'utilisateur";
+
+// Settings View
+"Settings" = "Paramètres";
+"Language" = "Langue";
+"Language Changed" = "Langue Modifiée";
+"Please restart the app for the language change to take effect" = "Veuillez redémarrer l'application pour que le changement de langue prenne effet";
+"Notifications" = "Notifications";
+"Due Tasks" = "Tâches à Faire";
+"Study Goals" = "Objectifs d'Étude";
+"Timetables" = "Emplois du Temps";
+"Timers" = "Minuteurs";
+"Random Reminders" = "Rappels Aléatoires";
+"Meditation Reminders" = "Rappels de Méditation";
+"App Engagement" = "Engagement avec l'App";
+"Extra Reminders" = "Rappels Supplémentaires";
+"Receive occasional reminders for meditation and app usage" = "Recevez des rappels occasionnels pour la méditation et l'utilisation de l'application";
+"Reset All Settings" = "Réinitialiser Tous les Paramètres";
+"Reset Settings" = "Réinitialiser les Paramètres";
+"Are you sure you want to reset all settings to default values?" = "Êtes-vous sûr de vouloir réinitialiser tous les paramètres aux valeurs par défaut ?";
+"Cancel" = "Annuler";
+"Reset" = "Réinitialiser";
+"Done" = "Terminé";
+"OK" = "OK";
+
+// MainToDoView
+"Tasks" = "Tâches";
+"Study Goals" = "Objectifs d'Étude";
+"All Subjects" = "Toutes les Matières";
+"Regular Tasks" = "Tâches Régulières";
+"Homework" = "Devoirs";
+"AI Service Error" = "Erreur du Service IA";
+"Unknown Error" = "Erreur Inconnue";
+
+// NotesView
+"Notes" = "Notes";
+"Character Count" = "%d/%d";
+"Save" = "Enregistrer";
+"Character Limit Exceeded" = "Limite de Caractères Dépassée";
+"OK" = "OK";
+"Notes Character Limit Message" = "Les notes sont limitées à %d caractères.";
+
+// StudiedoelenView
+"Delete" = "Supprimer";
+"Edit" = "Modifier";
+"Study Goals" = "Objectifs d'Étude";
+
+// TodoItemView
+"Task Options" = "Options de Tâche";
+"Rename" = "Renommer";
+"Add Deadline" = "Ajouter une Échéance";
+"Change Deadline" = "Modifier l'Échéance";
+"Set Priority" = "Définir la Priorité";
+"Change Priority" = "Modifier la Priorité";
+"Sync with Calendar" = "Synchroniser avec le Calendrier";
+"Share Task" = "Partager la Tâche";
+"Copy to Clipboard" = "Copier dans le Presse-papiers";
+"Remove Deadline" = "Supprimer l'Échéance";
+"Remove Priority" = "Supprimer la Priorité";
+"Task Details" = "Détails de la Tâche";
+"Title" = "Titre";
+"Category" = "Catégorie";
+"Subject" = "Matière";
+"Deadline" = "Échéance";
+"Priority" = "Priorité";
+"Status" = "Statut";
+"Completed" = "Terminée";
+"Pending" = "En cours";
+"Sent via Tasker App" = "Envoyé via Tasker App";
+"Created with Tasker App" = "Créé avec Tasker App";
+
+// NewTodoView
+"New Task" = "Nouvelle Tâche";
+"Task Name" = "Nom de la Tâche";
+"Enter task name" = "Entrez le nom de la tâche";
+"None" = "Aucune";
+"High" = "Haute";
+"Medium" = "Moyenne";
+"Low" = "Basse";
+"Add Deadline" = "Ajouter une Échéance";
+"Select deadline" = "Sélectionner l'échéance";
+"Create Task" = "Créer la Tâche";
+"Cancel" = "Annuler";
+"Character Limit Exceeded" = "Limite de Caractères Dépassée";
+"Task names are limited to %d characters." = "Les noms de tâches sont limités à %d caractères.";
+
+// NewCategoryView
+"New Category" = "Nouvelle Catégorie";
+"Task" = "Tâche";
+"Homework" = "Devoir";
+"Category Name" = "Nom de la Catégorie";
+"Enter category name" = "Entrez le nom de la catégorie";
+"Choose a subject" = "Choisir une matière";
+"Create Category" = "Créer la Catégorie";
+"Category names are limited to %d characters." = "Les noms de catégories sont limités à %d caractères.";
+
+// SubjectPickerView
+"All Subjects" = "Toutes les Matières";
+"Choose a subject" = "Choisir une matière";
+"Done" = "Terminé";
+
+// School Subjects
+"Dutch" = "Néerlandais";
+"English" = "Anglais";
+"French" = "Français";
+"German" = "Allemand";
+"Spanish" = "Espagnol";
+"Latin" = "Latin";
+"Greek" = "Grec";
+"Mathematics" = "Mathématiques";
+"Physics" = "Physique";
+"Chemistry" = "Chimie";
+"Biology" = "Biologie";
+"Computer Science" = "Informatique";
+"Technology" = "Technologie";
+"History" = "Histoire";
+"Geography" = "Géographie";
+"Economics" = "Économie";
+"Social Studies" = "Sciences Sociales";
+"Philosophy" = "Philosophie";
+"Drawing" = "Dessin";
+"Arts and Crafts" = "Arts Plastiques";
+"Music" = "Musique";
+"Drama" = "Théâtre";
+"Cultural Arts" = "Arts Culturels";
+"Physical Education" = "Éducation Physique";
+"Health Care" = "Éducation à la Santé";
+"Business Economics" = "Économie d'Entreprise";
+"Management & Organization" = "Gestion et Organisation";
+"Care" = "Soins";
+"Religion" = "Religion";
+"Life Philosophy" = "Philosophie de Vie";
+"Study Skills" = "Méthodologie";
+"Mentoring" = "Tutorat";
+
+// StudiedoelItemView
+"AI Coach" = "Coach IA";
+"Edit" = "Modifier";
+"Delete" = "Supprimer";
+"Delete Study Goal?" = "Supprimer l'objectif d'étude ?";
+"Cancel" = "Annuler";
+"Are you sure you want to delete this study goal?" = "Êtes-vous sûr de vouloir supprimer cet objectif d'étude ?";
+
+// EditStudiedoelView
+"Title" = "Titre";
+"Enter title" = "Saisir le titre";
+"Description" = "Description";
+"Deadline" = "Échéance";
+"Choose deadline" = "Choisir l'échéance";
+"Subject" = "Matière";
+"Choose a subject" = "Choisir une matière";
+"Grades (Optional)" = "Notes (Optionnel)";
+"Current grade" = "Note actuelle";
+"Target grade" = "Note visée";
+"Edit Study Goal" = "Modifier l'objectif d'étude";
+"Cancel" = "Annuler";
+"Save" = "Enregistrer";
+"Character Limit Exceeded" = "Limite de caractères dépassée";
+"OK" = "OK";
+"Maximum length has been reached." = "La longueur maximale a été atteinte.";
+
+// NewStudiedoelView
+"New Study Goal" = "Nouvel Objectif d'Étude";
+
+// ZermeloAuthView
+"European School Integration" = "Intégration Scolaire Européenne";
+"This feature is specifically designed for European high school students using the Zermelo platform for their class schedules." = "Cette fonctionnalité est spécialement conçue pour les lycéens européens utilisant la plateforme Zermelo pour leurs emplois du temps.";
+"Learn more about Zermelo" = "En savoir plus sur Zermelo";
+"Scan QR Code" = "Scanner le Code QR";
+"Manual Entry" = "Saisie Manuelle";
+"School name (e.g., school)" = "Nom de l'école (ex: école)";
+"Authorization code" = "Code d'autorisation";
+"Login" = "Connexion";
+"You can find your authorization code in the Zermelo Portal under 'Link app'" = "Vous pouvez trouver votre code d'autorisation dans le portail Zermelo sous 'Lier l'application'";
+"Link Zermelo" = "Lier Zermelo";
+"Error" = "Erreur";
+"OK" = "OK";
+"Unknown error" = "Erreur inconnue";
+"Invalid QR code format" = "Format de code QR invalide";
+
+// Statistics View
+"Statistics" = "Statistiques";
+"Daily Streak" = "Série Quotidienne";
+"days" = "jours";
+"Start your streak today!" = "Commencez votre série aujourd'hui !";
+"First day, keep going!" = "Premier jour, continuez !";
+"You're doing great!" = "Vous vous en sortez très bien !";
+"Amazing achievement!" = "Réalisation incroyable !";
+"Incredible! Keep it up!" = "Incroyable ! Continuez comme ça !";
+"Time Period" = "Période";
+"Week" = "Semaine";
+"Month" = "Mois";
+"Year" = "Année";
+"Task Completion" = "Achèvement des Tâches";
+"Completed" = "Terminé";
+"Remaining" = "Restant";
+"Total" = "Total";
+"Completion Rate" = "Taux d'Achèvement";
+"Task Overview" = "Aperçu des Tâches";
+"About Daily Streak" = "À propos de la Série Quotidienne";
+"The daily streak shows the number of consecutive days you've completed at least one task. Keep your streak alive by staying active every day!" = "La série quotidienne montre le nombre de jours consécutifs où vous avez terminé au moins une tâche. Maintenez votre série en restant actif chaque jour !";
+
+// Task Overview
+"Today" = "Aujourd'hui";
+"This Week" = "Cette Semaine";
+"Overdue" = "En Retard";
+"tasks" = "tâches";
+"No tasks" = "Pas de tâches";
+"You're all caught up! Time to relax or plan ahead." = "Vous êtes à jour ! C'est le moment de vous détendre ou de planifier.";
+
+// Statistics View
+"Time Period" = "Période";
+"Task Completion" = "Achèvement des Tâches";
+"Task Overview" = "Aperçu des Tâches";
+"Completed" = "Terminées";
+"Remaining" = "Restantes";
+"Total" = "Total";
+"Completion Rate" = "Taux d'Achèvement";
+"Daily Streak" = "Série Quotidienne";
+"days" = "jours";
+"Start your streak today!" = "Commencez votre série aujourd'hui !";
+"First day, keep going!" = "Premier jour, continuez !";
+"You're doing great!" = "Vous vous en sortez très bien !";
+"Amazing achievement!" = "Réalisation incroyable !";
+"Incredible! Keep it up!" = "Incroyable ! Continuez comme ça !";
+"About Daily Streak" = "À propos de la Série Quotidienne";
+"The daily streak shows the number of consecutive days you've completed at least one task. Keep your streak alive by staying active every day!" = "La série quotidienne montre le nombre de jours consécutifs où vous avez terminé au moins une tâche. Maintenez votre série en restant actif chaque jour !";
+
+// Tools View
+"Tools" = "Outils";
+"AI Assistant" = "Assistant IA";
+"Get help with tasks, studying, and relaxation" = "Obtenez de l'aide pour les tâches, les études et la détente";
+"Productivity Tools" = "Outils de Productivité";
+"Pomodoro Timer" = "Minuteur Pomodoro";
+"Focus & productivity" = "Concentration & productivité";
+"Meditation" = "Méditation";
+"Peace & mindfulness" = "Paix & pleine conscience";
+
+// Pomodoro View
+"Sessions Today" = "Sessions Aujourd'hui";
+"Total Focus Time" = "Temps Total de Concentration";
+"Focus Time" = "Temps de Concentration";
+"Break Time" = "Temps de Pause";
+"Ends at" = "Se termine à";
+"Timer Settings" = "Paramètres du Minuteur";
+"Custom Time" = "Temps Personnalisé";
+"Work" = "Travail";
+"Break" = "Pause";
+"Work: 1-120 minutes\nBreak: 1-60 minutes" = "Travail: 1-120 minutes\nPause: 1-60 minutes";
+
+// Meditation View
+"Meditation" = "Méditation";
+"Breathing" = "Respiration";
+"None" = "Aucun";
+"Rain" = "Pluie";
+"Waves" = "Vagues";
+"White Noise" = "Bruit Blanc";
+"Minimal" = "Minimale";
+"Full" = "Complète";
+"Mindfulness" = "Pleine Conscience";
+"Relaxation" = "Relaxation";
+"Stress" = "Stress";
+"Sleep" = "Sommeil";
+"Energy" = "Énergie";
+"Focus on the present moment" = "Concentrez-vous sur le moment présent";
+"Relax body and mind" = "Détendez le corps et l'esprit";
+"Reduce stress and anxiety" = "Réduisez le stress et l'anxiété";
+"Improve your sleep quality" = "Améliorez votre qualité de sommeil";
+"Increase your energy level" = "Augmentez votre niveau d'énergie";
+"Inhale" = "Inspirez";
+"Hold" = "Retenez";
+"Exhale" = "Expirez";
+"Rest" = "Reposez";
+"Box Breathing" = "Respiration Carrée";
+"Relaxing Breath" = "Respiration Relaxante";
+"Energizing Breath" = "Respiration Énergisante";
+"4-4-4-4 pattern for focus and calm" = "Schéma 4-4-4-4 pour la concentration et le calme";
+"4-7-8 pattern for deep relaxation" = "Schéma 4-7-8 pour une relaxation profonde";
+"Quick breathing for more energy" = "Respiration rapide pour plus d'énergie";
+"Breathing Pattern" = "Schéma de Respiration";
+"Duration" = "Durée";
+"Ambient Sound" = "Son Ambiant";
+"Guidance" = "Guidage";
+"Interval Bell" = "Cloche d'Intervalle";
+"Every" = "Chaque";
+"End Bell" = "Cloche de Fin";
+
+// Meditation Completion View
+"Session Complete" = "Session Terminée";
+"Duration" = "Durée";
+"Type" = "Type";
+"Pattern" = "Schéma";
+"How was your session?" = "Comment était votre session ?";
+"Add notes" = "Ajouter des notes";
+"Save Session" = "Sauvegarder la Session";
+"Cancel" = "Annuler";
+
+// Meditation History View
+"Meditation History" = "Historique de Méditation";
+"Time Period" = "Période";
+"Week" = "Semaine";
+"Month" = "Mois";
+"Year" = "Année";
+"All" = "Tout";
+"Minutes" = "Minutes";
+"Sessions" = "Sessions";
+"Avg. Rating" = "Note Moyenne";
+"No meditation sessions yet" = "Pas encore de sessions de méditation";
+"Your meditation journey begins with one breath" = "Votre voyage de méditation commence par une respiration";
+"Delete Session" = "Supprimer la Session";
+"Are you sure you want to delete this meditation session?" = "Êtes-vous sûr de vouloir supprimer cette session de méditation ?";
+
+// Profile View
+"Profile" = "Profil";
+"App Tutorial" = "Tutoriel de l'App";
+"View how the app works" = "Voir comment fonctionne l'app";
+"Settings" = "Paramètres";
+"Customize your preferences" = "Personnalisez vos préférences";
+"Privacy Policy" = "Politique de Confidentialité";
+"View our privacy policy" = "Voir notre politique de confidentialité";
+"Sign Out" = "Déconnexion";
+"Member since" = "Membre depuis";
+"Done" = "Terminé";
+
+// Tutorial View
+"Welcome to StudyBuddy" = "Bienvenue sur StudyBuddy";
+"Your personal task management assistant to help you be more productive" = "Votre assistant personnel de gestion des tâches pour vous aider à être plus productif";
+"Manage Tasks" = "Gérer les Tâches";
+"Create tasks, organize them into categories and track your progress" = "Créez des tâches, organisez-les en catégories et suivez vos progrès";
+"Smart Reminders" = "Rappels Intelligents";
+"Set deadlines and receive notifications at the right time" = "Définissez des échéances et recevez des notifications au bon moment";
+"Track Progress" = "Suivi des Progrès";
+"View your statistics and celebrate your successes" = "Consultez vos statistiques et célébrez vos succès";
+"Get Started!" = "Commencer!";
+"Next" = "Suivant";
+
+// Tab Items
+"Home" = "Accueil";
+"Planner" = "Planificateur";
+"Statistics" = "Statistiques";
+"Tools" = "Outils";
+"Profile" = "Profil";
+
+// Priority
+"High" = "Haute";
+"Medium" = "Moyenne";
+"Low" = "Basse";
+
+// Calendar Sync
+"Event Details" = "Détails de l'Événement";
+"Location" = "Lieu";
+"Time Settings" = "Paramètres de Temps";
+"Start Time" = "Heure de Début";
+"Duration" = "Durée";
+"15 minutes" = "15 minutes";
+"30 minutes" = "30 minutes";
+"45 minutes" = "45 minutes";
+"1 hour" = "1 heure";
+"1.5 hours" = "1,5 heures";
+"2 hours" = "2 heures";
+"3 hours" = "3 heures";
+"4 hours" = "4 heures";
+"Reminder" = "Rappel";
+"Color" = "Couleur";
+"Event Color" = "Couleur de l'Événement";
+"Subject Details" = "Détails de la Matière";
+"Sync with Google Calendar" = "Synchroniser avec Google Agenda";
+"Cancel" = "Annuler";
+
+// Calendar Colors
+"Default" = "Par défaut";
+"Red" = "Rouge";
+"Orange" = "Orange";
+"Green" = "Vert";
+"Blue" = "Bleu";
+"Purple" = "Violet";
+
+// Reminder Times
+"No reminder" = "Pas de rappel";
+"5 minutes before" = "5 minutes avant";
+"15 minutes before" = "15 minutes avant";
+"30 minutes before" = "30 minutes avant";
+"1 hour before" = "1 heure avant";
+"1 day before" = "1 jour avant";
+
+// Date Formatting
+"Today" = "Aujourd'hui";
+"Tomorrow" = "Demain";
+"Yesterday" = "Hier";
+"In %d days" = "Dans %d jours";
+"%d days ago" = "Il y a %d jours";
+
+// Category
+"New Category" = "Nouvelle Catégorie";
+"Category Name" = "Nom de la Catégorie";
+"Enter category name" = "Entrez le nom de la catégorie";
+"Choose a subject" = "Choisir une matière";
+"Create Category" = "Créer une Catégorie";
+"Category Options" = "Options de Catégorie";
+"Rename" = "Renommer";
+"Share Category" = "Partager la Catégorie";
+"Delete" = "Supprimer";
+"Rename Category" = "Renommer la Catégorie";
+"Maximum %d characters" = "Maximum %d caractères";
+"New Task" = "Nouvelle Tâche";
+"Shared via Tasker App" = "Partagé via Tasker App";
+
+// Task Types
+"Task" = "Tâche";
+"Homework" = "Devoir";
+
+// Task Management
+"Task Options" = "Options de Tâche";
+"Rename Task" = "Renommer la Tâche";
+"Task Name" = "Nom de la Tâche";
+"Set Priority" = "Définir la Priorité";
+"Change Priority" = "Modifier la Priorité";
+"Add Deadline" = "Ajouter une Échéance";
+"Change Deadline" = "Modifier l'Échéance";
+"Remove Deadline" = "Supprimer l'Échéance";
+"Remove Priority" = "Supprimer la Priorité";
+"Delete" = "Supprimer";
+"Cancel" = "Annuler";
+"Rename" = "Renommer";
+"Set" = "Définir";
+"None" = "Aucun";
+"Character Limit Exceeded" = "Limite de Caractères Dépassée";
+"Task names are limited to %d characters." = "Les noms de tâches sont limités à %d caractères.";
+"Select Deadline" = "Sélectionner l'Échéance";
+"Set Deadline" = "Définir l'Échéance";
+"Set Priority" = "Définir la Priorité";
+"Sync with Calendar" = "Synchroniser avec le Calendrier";
+"Share Task" = "Partager la Tâche";
+"Copy to Clipboard" = "Copier dans le Presse-papiers";
+
+// Task Details
+"Task Details" = "Détails de la Tâche";
+"Title" = "Titre";
+"Category" = "Catégorie";
+"Subject" = "Matière";
+"Deadline" = "Échéance";
+"Priority" = "Priorité";
+"Status" = "Statut";
+"Completed" = "Terminée";
+"Pending" = "En Attente";
+"Created with Tasker App" = "Créé avec Tasker App";

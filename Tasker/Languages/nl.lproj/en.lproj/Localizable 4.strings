@@ -1,0 +1,19 @@
+// Tab Items
+"Home" = "Home";
+"Planner" = "Planner";
+"Statistics" = "Statistics";
+"Tools" = "Tools";
+"Profile" = "Profile";
+
+// Auth Errors
+"Authentication configuration not found" = "Authentication configuration not found";
+"Failed to get authentication token" = "Failed to get authentication token";
+"No signed-in user found" = "No signed-in user found";
+"Sign in cancelled by user" = "Sign in cancelled by user";
+
+// Settings view
+"Language" = "Taal";
+"Language Changed" = "Taal Gewijzigd";
+"Please restart the app for the language change to take effect" = "Start de app opnieuw op om de taalwijziging door te voeren";
+"OK" = "OK";
+"Notifications" = "Meldingen";

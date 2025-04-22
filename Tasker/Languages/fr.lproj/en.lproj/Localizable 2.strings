@@ -1,0 +1,19 @@
+// Tab Items
+"Home" = "Accueil";
+"Planner" = "Planificateur";
+"Statistics" = "Statistiques";
+"Tools" = "Outils";
+"Profile" = "Profil";
+
+// Auth Errors
+"Authentication configuration not found" = "Configuration d'authentification introuvable";
+"Failed to get authentication token" = "Échec de l'obtention du jeton d'authentification";
+"No signed-in user found" = "Aucun utilisateur connecté trouvé";
+"Sign in cancelled by user" = "Connexion annulée par l'utilisateur";
+
+// Settings view
+"Language" = "Langue";
+"Language Changed" = "Langue Modifiée";
+"Please restart the app for the language change to take effect" = "Veuillez redémarrer l'application pour que le changement de langue prenne effet";
+"OK" = "OK";
+"Notifications" = "Notifications";
