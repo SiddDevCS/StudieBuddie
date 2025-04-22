@@ -2,6 +2,8 @@
 
 StudieBuddie is a comprehensive iOS study application designed to help students organize their academic life, manage tasks, and improve productivity. With features including to-do lists, schedule management, focus tools, and AI-powered study assistance, StudieBuddie serves as your all-in-one academic companion.
 
+![Untitled design](https://github.com/user-attachments/assets/b9ede5c5-9179-4580-a216-fec11c57d44f)
+
 ## Features
 
 ### Task Management
